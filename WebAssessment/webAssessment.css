@@ -1,0 +1,48 @@
+.container {
+    width: 97%;
+   /* background-color: red;*/
+    height: 100%;
+    margin: 10px 0px 0px 0px;
+}
+
+/*This is my logo area css*/
+
+.logoAreaWrapper {
+    /*background-color: red;*/
+    height:auto;
+    width:100%;
+   
+}
+
+.logoArea img {
+    margin-left: 60px;
+    position: relative;
+}
+
+.sitePeopleText {
+    position: absolute;
+    top: 05vh;
+    left:1100px;
+    text-align: right;
+}
+
+
+.search {
+    position:absolute;
+    top:08vh;
+    left:1200px;
+    
+}
+
+.customerSearch {
+    line-height: 1.9;
+}
+
+.fa fa-search {
+    
+}
+
+
+
+
+
